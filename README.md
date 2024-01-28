@@ -2,15 +2,8 @@
 
 Created with Weather API from OpenWeatherMap
 
-## Getting Started
+## Screenshots
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-28 at 22 40 32 copy](https://github.com/rolcodes/weather_app/assets/132939427/ff8b7c50-7884-4e64-9075-c4ec81d85351)
+<img width="587" alt="Screenshot 2024-01-28 at 10 38 44 PM" src="https://github.com/rolcodes/weather_app/assets/132939427/985e900f-3576-4241-bc30-22e890b02cd9">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
